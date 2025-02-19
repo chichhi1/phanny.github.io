@@ -1,0 +1,21 @@
+body {
+    font-family: "Uchen", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large;
+}
+.hero-section {
+    height: 80vh;
+    background: url('./image/9ebe9c6de7e04b7c90c8ff2729340480.jpg') no-repeat center center/cover;
+}
+.card img {
+    height: 400px;
+    object-fit: cover;
+}
+footer {
+   
+    font-size: 30px;
+}
+.nny{
+    color: black;
+}
